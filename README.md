@@ -5,7 +5,7 @@
  
   <h1 align="left">Deepanshu</h1>
 <div align="center"  >
-  <img src="https://github.com/Meet-Tilala/Meet-Tilala/blob/main/IMG_4111_1_optimized_1000.png" alt="Image" style="border-radius: 50px;" height="300">
+  <img src="https://github.com/DeepanshuPayal123/DeepanshuPayal123/blob/main/IMG_2890.png" alt="Image" style="border-radius: 50px;" height="300">
 </div>
 
 
@@ -13,12 +13,12 @@
 
  ![](https://github.com/AnishSukhramani/AnishSukhramani/assets/91376836/ff67615f-3a0a-45bd-8c92-70e38cf44ec9) -->
 
-<h3 align="center">"I code with passion, precision, and a pinch of madness, with flawless elegance that blends style and substance effortlessly.
+<h3 align="center">"I code with passion, precision, and just a touch of madness—crafting solutions that seamlessly combine elegance, style, and substance.
 "</h3>
 
 
 <h2> About Me </h2>
-I'm Meet Tilala — a Computer Science undergrad at IIT Jodhpur, who treats code not just as instructions for machines, but as a canvas for problem-solving artistry. I engineer elegant solutions with the surgical precision of a developer and the chaotic creativity of a dreamer. My academic journey has taken me deep into the realms of algorithms, blockchain game theory, and machine learning, while my hands-on projects — from a sentiment analysis engine to a geospatial query system — prove that theory is just the beginning.
+I'm Deepanshu — a Computer Science undergrad at IIT Jodhpur, who treats code not just as instructions for machines, but as a canvas for problem-solving artistry. I engineer elegant solutions with the surgical precision of a developer and the chaotic creativity of a dreamer. My academic journey has taken me deep into the realms of algorithms, blockchain game theory, and machine learning, while my hands-on projects — from a sentiment analysis engine to a geospatial query system — prove that theory is just the beginning.
 
 
 
@@ -50,17 +50,15 @@ Currently part of the CSE Society and the Quant-Finance Club, I thrive where log
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://twitter.com/Meet__Tilala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Meet-Tilala" height="36" width="55" /></a>
-<a href="https://linkedin.com/in/meet-tilala97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Meet-Tilala" height="38" width="55" /></a>
-<a href="https://instagram.com/thatswhatmeetsaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Meet-Tilala" height="40" width="55" /></a>
-<a href="https://www.leetcode.com/MeetTilala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Meet-Tilala" height="40" width="55" /></a>
-<a href="mailto:meettilala2005@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="20" width="55" /></a>
+
+<a href="https://www.linkedin.com/in/deepanshu-payal-0054a028a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Meet-Tilala" height="38" width="55" /></a>
+<a href="mailto:deepanshu280607@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="20" width="55" /></a>
 </p>
 
 
 <!-- <hr> -->
 <hr>
-<p align="center"><img width="47.5%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Meet-Tilala&theme=tokyonight&hide_border=true" alt="Meet-Tilala" /><img width="47.5%" align="right" src="https://github-readme-stats.vercel.app/api?username=Meet-Tilala&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&locale=en" alt="Meet-Tilala" /></p>
+<p align="center"><img width="47.5%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Meet-Tilala&theme=tokyonight&hide_border=true" alt="DeepanshuPayal123" /><img width="47.5%" align="right" src="https://github-readme-stats.vercel.app/api?username=Meet-Tilala&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&locale=en" alt="Meet-Tilala" /></p>
 <br>
 <br>
 <br>
@@ -75,20 +73,15 @@ Currently part of the CSE Society and the Quant-Finance Club, I thrive where log
 
 
 ### 🏆 Notable Achievements:
-- 🥇 AIR 1959 in JEE Advanced 2023 (top 0.1% of qualified students)
-- 🥈 AIR 4236 in JEE Main 2023 (99.64 percentile, top 0.2%)
-- 🏅 Secured 2nd Position in Gujarat State (96.4%) in CBSE Board Examination 2023
-- 🎓 Currently maintaining 8.54 CGPA at IIT Jodhpur
+- 🥇 AIR 6531 in JEE Advanced 2023 (top 0.1% of qualified students)
+- 🥈 AIR 8236 in JEE Main 2023 (99.44 percentile, top 0.2%)
+- 🏅 (94.3%) in CBSE Board Examination 2023
+- 🎓 Currently maintaining 8.48 CGPA at IIT Jodhpur
 
 ## Research & Projects:
-- **Game Theoretic Analysis of Payment Networks in Blockchain** - Research project under <a href="https://scholar.google.com/citations?user=J2Rhwj8AAAAJ&hl=en" target="_blank">Prof. Nitin Awathare</a>
-- **Sentiment Classification using Core ML Principles** - Text sentiment analysis using machine learning techniques
-- **E-Commerce Reseller Website (AROMA)** - Web marketplace for pre-owned items trading within IITJ
-- **Geospatial Query System** - A spatial database system with efficient query handling
+- Built InstiChatBOT for IIT Jodhpur using RAG, achieving sub-second response time and over 90% accuracy in evaluations.
+- Developed an Image Retrieval System using HOG and CNN features, leveraging KNN, PCA, and QuickNet to enhance retrieval accuracy.
+- Built a Route Optimizer using A* and KD Tree, improving shortest-path computation efficiency by 40%.
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Meet-Tilala&bg_color=1a1b27&color=c194f5&line=75aaff&point=3bc4b4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-
-<!-- Profile views counter -->
-![Profile views](https://komarev.com/ghpvc/?username=Meet-Tilala&color=blue)
