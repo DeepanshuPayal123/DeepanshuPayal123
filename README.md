@@ -57,7 +57,7 @@ Whether I am processing millions of nodes in streaming graphs or fine-tuning ML 
 
 <!-- <hr> -->
 <hr>
-<p align="center"><img width="47.5%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Meet-Tilala&theme=tokyonight&hide_border=true" alt="DeepanshuPayal123" /><img width="47.5%" align="right" src="https://github-readme-stats.vercel.app/api?username=Meet-Tilala&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&locale=en" alt="Meet-Tilala" /></p>
+<p align="center"><img width="47.5%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=DeepanshuPayal123&theme=tokyonight&hide_border=true" alt="DeepanshuPayal123" /><img width="47.5%" align="right" src="https://github-readme-stats.vercel.app/api?username=DeepanshuPayal123&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&locale=en" alt="DeepanshuPayal123" /></p>
 <br>
 <br>
 <br>
@@ -82,5 +82,5 @@ Whether I am processing millions of nodes in streaming graphs or fine-tuning ML 
 - Developed an Image Retrieval System using HOG and CNN features, leveraging KNN, PCA, and QuickNet to enhance retrieval accuracy.
 - Built a Route Optimizer using A* and KD Tree, improving shortest-path computation efficiency by 40%.
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Meet-Tilala&bg_color=1a1b27&color=c194f5&line=75aaff&point=3bc4b4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DeepanshuPayal123&bg_color=1a1b27&color=c194f5&line=75aaff&point=3bc4b4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
