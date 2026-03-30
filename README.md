@@ -62,22 +62,6 @@ Whether I am processing millions of nodes in streaming graphs or fine-tuning ML 
 
 
 <!-- <hr> -->
-<hr>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepanshuPayal123&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=DeepanshuPayal123&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
-</p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<hr>
 
 
 
