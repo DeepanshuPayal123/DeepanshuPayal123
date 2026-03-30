@@ -7,6 +7,10 @@
 <div align="center"  >
   <img src="https://github.com/DeepanshuPayal123/DeepanshuPayal123/blob/main/IMG_2890.png" alt="Image" style="border-radius: 50px;" height="300">
 </div>
+</div>
+
+![snake gif](https://raw.githubusercontent.com/DeepanshuPayal123/DeepanshuPayal123/output/github-snake-dark.svg)
+
 
 
 <!--  <img src="https://github.com/AnishSukhramani/AnishSukhramani/assets/91376836/ff67615f-3a0a-45bd-8c92-70e38cf44ec9" alt="Image" height="200">
