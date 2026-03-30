@@ -4,9 +4,11 @@
  -->
  
   <h1 align="left">Deepanshu</h1>
-<div align="center"  >
-  <img src="https://github.com/DeepanshuPayal123/DeepanshuPayal123/blob/main/IMG_2890.png" alt="Image" style="border-radius: 50px;" height="300">
-</div>
+<p align="center">
+  <a href="https://github.com/DeepanshuPayal123">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=35&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Deepanshu;CSE+Student+at+IIT+Jodhpur;AI+%26+NLP+Enthusiast" alt="Typing Animation" />
+  </a>
+</p>
 </div>
 
 ![snake gif](https://raw.githubusercontent.com/DeepanshuPayal123/DeepanshuPayal123/output/github-snake-dark.svg)
@@ -61,7 +63,11 @@ Whether I am processing millions of nodes in streaming graphs or fine-tuning ML 
 
 <!-- <hr> -->
 <hr>
-<p align="center"><img width="47.5%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=DeepanshuPayal123&theme=tokyonight&hide_border=true" alt="DeepanshuPayal123" /><img width="47.5%" align="right" src="https://github-readme-stats.vercel.app/api?username=DeepanshuPayal123&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&locale=en" alt="DeepanshuPayal123" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepanshuPayal123&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=DeepanshuPayal123&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
+</p>
 <br>
 <br>
 <br>
