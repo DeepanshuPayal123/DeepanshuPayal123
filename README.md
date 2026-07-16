@@ -6,7 +6,7 @@
   <h1 align="left">Deepanshu</h1>
 <p align="center">
   <a href="https://github.com/DeepanshuPayal123">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=35&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Deepanshu;CSE+Student+at+IIT+Jodhpur;AI+%26+NLP+Enthusiast" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=35&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Deepanshu;CSE+Student+at+IIT+Jodhpur;AI+Software+Engineer" alt="Typing Animation" />
   </a>
 </p>
 </div>
