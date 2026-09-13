@@ -69,7 +69,7 @@ Whether I am processing millions of nodes in streaming graphs or fine-tuning ML 
 - 🥇 AIR 6531 in JEE Advanced 2023 (top 0.1% of qualified students)
 - 🥈 AIR 8236 in JEE Main 2023 (99.44 percentile, top 0.2%)
 - 🏅 (94.3%) in CBSE Board Examination 2023
-- 🎓 Currently maintaining 8.48 CGPA at IIT Jodhpur
+- 🎓 Currently maintaining 9.17 CGPA at IIT Jodhpur
 
 ## Research & Projects:
 - Built InstiChatBOT for IIT Jodhpur using RAG, achieving sub-second response time and over 90% accuracy in evaluations.
